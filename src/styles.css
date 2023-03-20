@@ -69,3 +69,13 @@ footer {
   font-size: 18px;
   color: rgba(0, 0, 0, 0.8);
 }
+
+.alllink {
+  font-size: 15px;
+  color: black;
+  text-decoration: none;
+}
+
+.alllink:hover {
+  color: blueviolet;
+}
